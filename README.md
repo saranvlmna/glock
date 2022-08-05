@@ -10,6 +10,9 @@ GOOGLE_CLIENT_ID
 GOOGLE_CLIENT_SECRET
 GOOGLE_CALLBACK_URL
 
+run following commands
+source .env
+
 yarn run dev || npm run dev
 
 
