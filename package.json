@@ -1,0 +1,37 @@
+{
+  "name": "googleauth",
+  "version": "1.0.0",
+  "description": "googleauth",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --config nodemon.json"
+  },
+  "author": "saranjith p",
+  "license": "ISC",
+  "dependencies": {
+    "convict": "^6.2.3",
+    "convict-format-with-validator": "^6.2.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "google-auth-library": "^8.1.1",
+    "mongoose": "^6.5.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranvlmna/google_authentication.git"
+  },
+  "keywords": [
+    "Googleauth",
+    "integrategooglesignin",
+    "googleauth"
+  ],
+  "bugs": {
+    "url": "https://github.com/saranvlmna/google_authentication/issues"
+  },
+  "homepage": "https://github.com/saranvlmna/google_authentication#readme"
+}
